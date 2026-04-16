@@ -1,0 +1,9 @@
+# Personal config — copy settings.json.example to settings.json and customize
+config/settings.json
+
+# Runtime output
+logs/
+undo/
+
+# Claude Code local settings
+.claude/settings.local.json

@@ -1,0 +1,7 @@
+{
+    "SourceFolder":        "C:\\Users\\YourName\\OneDrive\\Pictures\\Screenshots",
+    "DestinationRoot":     "C:\\Users\\YourName\\OneDrive\\Pictures\\Screenshots",
+    "SupportedExtensions": [".png", ".jpg", ".jpeg", ".webp"],
+    "LogFolder":           "C:\\Projects\\ScreenshotOrganizer\\logs",
+    "UndoFolder":          "C:\\Projects\\ScreenshotOrganizer\\undo"
+}
