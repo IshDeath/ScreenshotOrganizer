@@ -1,0 +1,1 @@
+powershell.exe -command "&"C:\Users\Isaiah.Deathe\KMT\Scripts\Screenshot_Organizer\ScreenshotOrganizer\ScreenshotOrganizer.ps1""
